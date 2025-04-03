@@ -1,0 +1,14 @@
+Update (08/15/2024)
+
+DOORTRAKS lines were fixed.
+
+Thanks to my friend Dr.Ferrick and SgtSars (from Slaughterhouse/Nightdive community)
+I found out that basically some DOORTRAK textures moved and they were fixed accordingly.
+
+I also playtested the wad on DOOM+DOOM II remaster and it works fine, outside of a slight (i think)
+Animation desync with the chaingun with Minicharge weapons... hope this can be fixed or at least doesn't hurt the experience.
+
+End of note.
+
+- Chuma
+- Phoenyx (who always helps and supports me)

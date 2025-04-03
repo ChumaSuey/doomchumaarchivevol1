@@ -1,0 +1,76 @@
+===========================================================================
+Archive Maintainer      : requires or it's intended to be played with Minicharge V1.3
+Update to               : -
+Advanced engine needed  : DSDA-Doom / MBF21 (complevel)
+Primary purpose         : Single+Coop play. 1 level included (MAP01)
+===========================================================================
+Title                   : Cold Shuulathoi
+Filename                : cold_shuulathoi.wad
+Release date            : 7/2/2024  (08/15/2024 small update V2)
+Author                  : Chuma
+Email Address           : hyperghostblade@gmail.com
+Other Files By Author   : minicharge_v1.3.wad  (this is not mine but it's intended to be played with minicharge, made for v1.3)
+Misc. Author Info       : I wanna thank Phoenyx and in spirit she is a co-author of my WAD and a good friend.
+
+Description             : Doomguy is sent to an arctic part of mars to stop the summoning of a demon called the Shuulathoi... the base
+                          look like it's gothic and some monsters have taken it over, not a problem for the Slayer, of course not.
+
+Additional Credits to   : 
+===========================================================================
+* What is included *  (Based or using as reference "Minicharge mod V1.3"
+
+New levels              : 1 (ends after MAP01)
+Sounds                  : No
+Music                   : Yes...ish custom music (Horizon - TNT Evilution track by DAR (Davester2296)
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : minicharge_v1.3.wad (included in the file)
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (added em last minute)
+Deathmatch 2-4 Player   : No
+Other game styles       : No
+Difficulty Settings     : No difficulty variation, U-V intended difficulty.
+
+
+* Construction *
+
+Base                    : original idea cold_shuulathoi
+Build Time              : 2-3 weeks.
+Editor(s) used          : UDB and SLADE
+Known Bugs              : Not that i know of.
+May Not Run With        : any Complevel that is not MBF21
+Tested With             : dsda-doom.
+
+
+
+* Copyright / Permissions *
+
+Authors (MAY/may NOT) use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+(delete one of these two paragraphs:)
+
+You MAY not distribute this file in any format.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
